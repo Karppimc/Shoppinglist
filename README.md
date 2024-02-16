@@ -6,9 +6,9 @@ Frontend is done with React and Backend with Node.js
 Frontend fetchec items from the backend
 
 Backend has endpoints:
--GET
--POST
--DELETE
+- GET
+- POST
+- DELETE
 
 ![image](https://github.com/Karppimc/Shoppinglist/assets/54446639/72231a2e-6c08-45ba-b7bd-308c4bf0700b)
 
